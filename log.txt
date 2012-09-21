@@ -1,0 +1,46 @@
+Execute 'python caminho_minimo.py -h', para verificar mais opcoes
+Nao foram passados todos os parametros, executando o padrao...
+#----------------------------------------------------
+Quantidade de Vertices: 8
+Iniciando leitura do arquivo matrix.txt
+Leitura do arquivo matrix.txt terminada em 0.000107049942017s
+dijkstra     : [1, 8, 7, 6], executado em 0.000050067901611328125s
+bellman_ford : [1, 8, 7, 6], executado em 0.000223875045776s
+dijkstra metrica salto    : [1, 6], executado em 0.00006103515625s
+bellman_ford metrica salto: [1, 6], executado em 0.000180959701538s
+#----------------------------------------------------
+Quantidade de Vertices: 50
+Iniciando leitura do arquivo 50.txt
+Leitura do arquivo 50.txt terminada em 0.00303483009338s
+dijkstra     : [10, 42, 43, 8, 39, 40], executado em 0.000576972961426s
+bellman_ford : [10, 42, 43, 8, 39, 40], executado em 0.0450778007507s
+dijkstra metrica salto    : [10, 42, 43, 8, 39, 40], executado em 0.000621795654297s
+bellman_ford metrica salto: [10, 42, 43, 8, 39, 40], executado em 0.0286750793457s
+#----------------------------------------------------
+Quantidade de Vertices: 250
+Iniciando leitura do arquivo 250.txt
+Leitura do arquivo 250.txt terminada em 0.0799009799957s
+dijkstra     : [10, 24, 171, 220], executado em 0.0111138820648s
+bellman_ford : [10, 24, 171, 220], executado em 4.9877448082s
+dijkstra metrica salto    : [10, 24, 171, 220], executado em 0.0116069316864s
+bellman_ford metrica salto: [10, 24, 171, 220], executado em 5.09902095795s
+#----------------------------------------------------
+Quantidade de Vertices: 500
+Iniciando leitura do arquivo 500.txt
+Leitura do arquivo 500.txt terminada em 0.363459825516s
+dijkstra     : [1, 33, 87, 133, 176, 350], executado em 0.0370750427246s
+bellman_ford : [1, 33, 87, 133, 176, 350], executado em 46.3791968822s
+dijkstra metrica salto    : [1, 33, 87, 133, 176, 350], executado em 0.0344271659851s
+bellman_ford metrica salto: [1, 33, 87, 133, 176, 350], executado em 45.6265640259s
+#----------------------------------------------------
+Quantidade de Vertices: 750
+Iniciando leitura do arquivo 750_2.txt
+Leitura do arquivo 750_2.txt terminada em 0.763341903687s
+dijkstra     : [1, 444, 2, 166, 181, 510, 368, 292, 700], executado em 0.270087957382s
+bellman_ford : [1, 444, 2, 166, 181, 510, 368, 292, 700], executado em 179.693883181s
+dijkstra metrica salto    : [1, 444, 2, 166, 181, 510, 368, 292, 700], executado em 0.27127289772s
+bellman_ford metrica salto: [1, 444, 2, 166, 181, 510, 368, 292, 700], executado em 178.138207197s
+#----------------------------------------------------
+Quantidade de Vertices: 1000
+Iniciando leitura do arquivo 1000.txt
+Leitura do arquivo 1000.txt terminada em 1.56341814995s

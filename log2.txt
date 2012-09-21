@@ -1,0 +1,10 @@
+Execute 'python caminho_minimo.py -h', para verificar mais opcoes
+Nao foram passados todos os parametros, executando o padrao...
+#----------------------------------------------------
+Quantidade de Vertices: 1000
+Iniciando leitura do arquivo 1000.txt
+Leitura do arquivo 1000.txt terminada em 1.52564692497s
+dijkstra     : [1, 624, 88, 823, 812, 318, 552, 29, 900], executado em 0.484181880951s
+bellman_ford : [1, 624, 88, 823, 812, 318, 552, 29, 900], executado em 440.029853106s
+dijkstra metrica salto    : [1, 624, 88, 823, 812, 318, 552, 29, 900], executado em 0.586689949036s
+bellman_ford metrica salto: [1, 624, 88, 823, 812, 318, 552, 29, 900], executado em 438.587266207s
